@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Power232</string>
+    <string name="hello_world">尾部近红外上电！</string>
+
+</resources>
